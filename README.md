@@ -2,6 +2,14 @@
 
 A simple and interactive Python command-line store application.
 
+---
+
+## Support Me
+
+[![Buy Me A Chai](https://img.shields.io/badge/Buy%20Me%20A%20Chai-Manjas-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeachai.com/manjasanand08)
+
+---
+
 ## ✨ Features
 - 📋 Displays item catalog and unit prices
 - 🔍 Automatically logs out-of-stock requests to `missing_item.txt`
