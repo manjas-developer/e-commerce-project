@@ -1,0 +1,9 @@
+
+---
+
+**3. File: '
+•gitignore'
+'''gitignore missing_item.txt order_details.txt
+-_pycache__/
+*. pyc
+• DS_Store
