@@ -6,7 +6,7 @@ A simple and interactive Python command-line store application.
 
 ## Support Me
 
-[![Buy Me A Chai](https://img.shields.io/badge/Buy%20Me%20A%20Chai-Manjas-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeachai.com/manjasanand08)
+[![Support Me](https://img.shields.io/badge/Support%20Me-Manjas-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeachai.com/manjasanand08)
 
 ---
 
